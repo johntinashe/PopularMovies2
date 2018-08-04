@@ -21,14 +21,20 @@ API_KEY = "your key here"
 
 ## Screenshots
 
-<img src="https://drive.google.com/file/d/1YAvnQZ85-eUOe9qe3fqhiHKvN6dVCnc6/view"
+<img src="https://firebasestorage.googleapis.com/v0/b/journalapp-985e6.appspot.com/o/pop%2FScreenshot_20180804-195246_Popular%20Movies.jpg?alt=media&token=8a0bfde3-bc01-45cb-99f7-26c590105439"
  align="left" width="400" height="800"/>
  
  
-<img src="https://firebasestorage.googleapis.com/v0/b/journalapp-985e6.appspot.com/o/Screenshot_20180728-161853_Popular%20Movies.jpg?alt=media&token=40647c43-1af6-4518-913e-ce23e0db0dbe"
+<img src="https://firebasestorage.googleapis.com/v0/b/journalapp-985e6.appspot.com/o/pop%2FScreenshot_20180804-195253_Popular%20Movies.jpg?alt=media&token=9d5c1534-8a55-489c-b624-ff3f7b82515b"
+ align="center" width="400" height="800"/>
+ 
+ 
+<img src="https://firebasestorage.googleapis.com/v0/b/journalapp-985e6.appspot.com/o/pop%2FScreenshot_20180804-195313_Popular%20Movies.jpg?alt=media&token=feb07ddc-3038-422b-986f-6d34f56902f2"
+ align="left" width="400" height="800"/>
+ 
+ 
+<img src="https://firebasestorage.googleapis.com/v0/b/journalapp-985e6.appspot.com/o/pop%2FScreenshot_20180804-195331_Popular%20Movies.jpg?alt=media&token=8a7381e4-0363-4e6c-a3bc-e26a92fb0a61"
  align="center" width="400" height="800"/>
    
-<img src="https://firebasestorage.googleapis.com/v0/b/journalapp-985e6.appspot.com/o/Screenshot_20180728-161926_Popular%20Movies.jpg?alt=media&token=51733bb0-d787-48e0-b08c-b5a8d17cd22c"
-width="800" height="500"/>
 
 
