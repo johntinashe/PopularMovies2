@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="movie_poster">movie poster</string>
+    <string name="error_no_movie">Error unable to get movie details</string>
+
+    <string name="trailer_s">Trailer(s)</string>
+    <string name="cast">Cast</string>
+    <string name="reviews">Reviews</string>
+    <string name="image_drawable">image drawable</string>
+    <string name="error_reviews">No reviews found!</string>
+    <string name="error_trailer">No trailers found!</string>
+    <string name="error_cast">No Cast found!</string>
+    <string name="add_to_fav_btn_description">add to favorites button</string>
+    <string name="trailer_play_button">trailer play button</string>
+    <string name="text_drawable_image">text drawable image</string>
+    <string name="trailer_thumb_image">trailer thumb image</string>
+    <string name="trailer_share_button">trailer share button</string>
+    <string name="refresh">Refresh</string>
+    <string name="share_trailer">Share Trailer</string>
+    <string name="share_link">Share link!</string>
+    <string name="scroll_position">ARTICLE_SCROLL_POSITION</string>
+</resources>

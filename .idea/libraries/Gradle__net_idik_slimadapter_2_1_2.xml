@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: net.idik:slimadapter-2.1.2">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/slimadapter-2.1.2.aar/f88aee32e69fe320357ebfc371e6429f/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/slimadapter-2.1.2.aar/f88aee32e69fe320357ebfc371e6429f/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.idik/slimadapter/2.1.2/c4a5802685783b74402d1d3720fd700a66093b4a/slimadapter-2.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
